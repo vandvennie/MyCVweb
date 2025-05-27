@@ -18,7 +18,7 @@ The project is fully implemented using HTML, CSS, and JavaScript, **without fron
 * **Local storage** is used to persist the user’s selections even after refreshing or closing the browser.
 * A dynamic summary is displayed, showing how many best practices the user has selected.
 * A **success metric** is defined (for example, achieving 12 out of 15 practices).
-* When the user meets the success metric, an **AJAX request** retrieves a **random cute animal picture** from a public API (e.g., listed in the ["Animals" section of public-apis"](https://github.com/public-apis/public-apis)) to reward the user.
+* When the user meets the success metric, an **AJAX request** retrieves a **random cute animal picture** from a public API
 * This interactive feedback mechanism promotes engagement and highlights the importance of best practices.
 
 ---
@@ -37,7 +37,6 @@ The project is fully implemented using HTML, CSS, and JavaScript, **without fron
   * Interactive sections.
   * AJAX-based content loading.
   * Animations and images.
-* At the bottom, a clearly marked **References section** lists all the sources and tools (including AI assistance) used to complete this project, formatted according to the [UWA referencing guide](https://guides.library.uwa.edu.au/referencinguwa).
 
 ---
 
@@ -55,8 +54,8 @@ The project is fully implemented using HTML, CSS, and JavaScript, **without fron
 
 ## 🚀 How to Run
 
-1. Open `index.html` in any modern browser to access the Best Practices page.
-2. Navigate to `cv.html` to view the Personalised CV page.
+1. Open `bestPractices.html` in any modern browser to access the Best Practices page.
+2. Navigate to `personalisedCV.html` to view the Personalised CV page.
 
 No server-side setup is required.
 
